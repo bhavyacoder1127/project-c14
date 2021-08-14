@@ -142,7 +142,7 @@ function pinkBalloon() {
   pink.addImage(pink_balloonImage);
   pink.velocityX = 3;
   pink.lifetime = 150;
-  pink.scale = 1
+  pink.scale = 1.25;
   pinkB.add(pink);
 }
 
